@@ -1,6 +1,6 @@
 # membuat-aplikasi-ios-untuk-pemula
 
-Project aplikasi submission membuat aplikasi ios untuk pemula dari Dicoding
+Project submission membuat aplikasi ios untuk pemula dari Dicoding
 
 Kriteria
 Fitur yang harus ada pada aplikasi:
@@ -16,3 +16,5 @@ Halaman Detail
 
 Halaman About
  - Menampilkan foto diri, nama, dan email yang terdaftar di Dicoding.
+
+Repo ini sebagai referensi, dilarang keras untuk plagiat.
